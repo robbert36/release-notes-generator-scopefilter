@@ -1,5 +1,5 @@
 {
-  "name": "@semantic-release/release-notes-generator",
+  "name": "@robbertc/release-notes-generator-scopefilter",
   "description": "semantic-release plugin to generate changelog content with conventional-changelog",
   "version": "1.0.0",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
