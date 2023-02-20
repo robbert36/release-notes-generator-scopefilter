@@ -85,6 +85,9 @@
     "type": "git",
     "url": "https://github.com/semantic-release/release-notes-generator.git"
   },
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org"
+  },
   "scripts": {
     "lint": "xo",
     "pretest": "npm run lint",
